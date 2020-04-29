@@ -6,4 +6,4 @@ To see your's and everyone's scores go to https://docs.google.com/spreadsheets/d
 
 All the assets are available in a folder if you want to use them. A friend of mine and myself drew everything you see.
 
-To run the program just open the file and run the main.exe (Application file)
+To run the program just run the Fried Chicken Shortcut (This is just the main.exe)
