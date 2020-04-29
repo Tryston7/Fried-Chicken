@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fried-chicken-273318",
+  "private_key_id": "19bdb2b05fc8ddf66c3d31ec6e8f878cae96daed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCH1bhKhI8NSY/K\nUWOaf23WyEZyThGgZbwu7zXO7TmJD/A5PpRBLsBaWNoBr9vVVugoBu7oQDPRO/vz\nYkhwBbGWw7YyXCAZ8ryDS0cODpDsDI2z6ll3a3A+QB+EtEuSybVSplN8lAn4rNw5\nMxD3FmgKdbbj4x7sWAZf5Z9WwiDCFcZp27HxytGrC9z9Yv+us8hrepc2MqfQ88vG\nPTNOCfMw9d2Xm+qNnsQhzZGkJe0fO+7o4JykNVmWGZERlTzPXmtRvf+iewp9z4VT\nqsp8wMcYLzsFhC8NoWfUx9d+gFCh+EiYn/g7iOksOol19wsjIAQrEpOfXMeuFZDM\n3uY29AKTAgMBAAECgf8r4qI50FiLGSRMxS59ysuLNrhKX3eT5q+/IN0g1u8EPoQ9\nd26Adwhyzsr5rrDFtm8JkW9o1W0d7f7a57lb0Tmd6iYxudNjxFkpX3knSgp8dH/6\nVkhzqPIgj8alClmP5oNwD7fRltjvRkMtqN3nJilrE/xBPu0m5cCmgly/44cu5YtH\n4hlXDPchVFfUAcqtA0M0zNiGALBWisEWmL1BRra3Lex6LFuPUqalivTrreGymAic\nGPwWcJU3oALDRTV2NhvV+ja7krljTW1WErK+CPIgutvLJIp1IIxzGyoHiqu+Gx+F\nI+tFoWDO66duxlIIP+U2uUIYZsXddV/x7XFLXeECgYEAu0lofjL7uHeIV/CNQsPX\nXtWASm020QECFf15JJZKn2N95rKJ2X7JxA/hkK8bu4ogllajmbNiTO7cTtfJmj4A\n7LhBOXC4tKVk4psnXKzQjYC1V9GcTKW+BG6gY6N9uvWIFaDFhRG/xkRyxKot36nW\n+RhBSLRzhEBm6n1PvO/xGKECgYEAuavHN00esyYBLFBQKpcay3MpLajPM6gbrVrq\nq021IYNxc3DYWFpt2NOrqCNVqnWnrT0Ar+CTEgiZAx8xLhFzRDiM7Jf7zTPJLeYB\nQL9z8YnwjdU1/g9fI+0bcHwT9bdHQv1fTJCjK2i1mitz/RqX+nzDz6KCFzwptuCH\nYBZ5irMCgYAIMW7rzmkqqbgCONjFKfIbCPYCy4JRZFzl/1+0VQrQrDaOyBK1vBEx\njYxNmwt4idNhIEsp5yoOuYhTvqboI3xA3tKjo6XA6VdffnAbYsgA2LeWLupKhBmq\n8ff8Q+O1MRaR86WQa7VbBBWNOvCkzzZDUWdRuesvxu15pp+9YTXH4QKBgQCMdrQj\n1igfh+TjTW8YiXAv8lN4w3jdr5QgteNK7WLWk8ZEe15wmRj5LEl0ziaE6rWLjdbz\nN4aL4g1AG1ztaS42skGKzAAm4cKVAqh3/18LoDtoUaCjL6XeXAaiNnwzLBCxUVXD\narjGolSg6ba6CGBpk/HfJyYbxdwZCgvgWaBhmQKBgEDigi0lPcsMLdd/6m4//qu+\nSTuLNmk7dJoo1c3RG8xoXsVsxj0OvKzv9Ug1fjHMGDosTFj98ASjN+1sWMr4FyTm\npmvEoGih47YrQrsSKxzJHsqhnfejR8uePEhmUyiWJ/nlePKpz33Pixo9CZ9t/cfp\n/9SBJh1mDThfwo4AMF0K\n-----END PRIVATE KEY-----\n",
+  "client_email": "tryston@fried-chicken-273318.iam.gserviceaccount.com",
+  "client_id": "114489090955419999446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tryston%40fried-chicken-273318.iam.gserviceaccount.com"
+}
