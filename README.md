@@ -1,5 +1,5 @@
 # Fried Chicken
-A silly game I made with the time I had in quarintine. I just learned Python and wanted to practice with it and get an introduction to   game design. You can look at other's scores on an excel sheet as well. It was made with Python and Pygame and uses some gspread to post the scores.
+A silly game I made with the time I had in quarantine. I just learned Python and wanted to practice with it and get an introduction to   game design. You can look at other's scores on an excel sheet as well. It was made with Python and Pygame and uses some gspread to post the scores.
 
 To play the game, download the whole project as a zip, then extract all the files (it should ask you if you want to if your try to run anything). Then run the Fried Chicken Shortcut (or main.exe).
 
